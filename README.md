@@ -41,10 +41,9 @@ Arayüzde sırasıyla:
 
 ![Uygulama Ekran Görüntüsü](gorsel.png)
 
-## 🎥 Demo Videosu
+## Demo Videosu
 
-Aşağıdaki bağlantıdan projeyi çalışırken izleyebilirsiniz:  
-[![YouTube Video](https://youtu.be/QjwEjzFVvok))
+[YouTube'da İzle](https://youtu.be/QjwEjzFVvok)
 
 ## Açıklama
 
